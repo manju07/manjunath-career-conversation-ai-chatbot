@@ -1,0 +1,21 @@
+RAG - Retrival augmented generation
+
+Agentic AI frameworks
+ - Langgraph
+ - Autogen
+ - OpenAI Agents SDK
+ - Crew AI
+
+MCP - Providing source data and tools to get the result.
+
+
+
+    - Multiple api keys for different models
+    - Ask a question to the LLM
+    - Get the response for the question from Multiple models
+    - Evaluate the responses in one of the model
+
+Workflow agents:
+    - orchestrator and parallelizm model
+
+
