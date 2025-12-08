@@ -80,8 +80,6 @@ class Me:
 
     def __init__(self):
         self.openai = OpenAI()
-        google_api_key = os.getenv('GOOGLE_API_KEY')
-        self.gemini = OpenAI(api_key=google_api_key, base_url="https://generativelanguage.googleapis.com/v1beta/openai/")
         self.name = "Manjunath Asundi"
 
         reader = PdfReader("data/Profile.pdf")
@@ -208,8 +206,8 @@ If the user is engaging in discussion, try to steer them towards getting in touc
         done = False
         while not done:
             # response = self.openai.chat.completions.create(model="gpt-4o-mini", messages=messages, tools=tools)
-            response = self.gemini.chat.completions.create(
-                model="gemini-2.0-flash",
+            response = self.openai.chat.completions.create(
+                model="gpt-4o-mini",
                 messages=messages,
                 tools=tools
             )
