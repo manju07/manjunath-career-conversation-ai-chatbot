@@ -98,6 +98,9 @@ def _repo_sections(repo: Path) -> list[str]:
             continue
         if path.name in SKIP_FILES:
             continue
+        # The local checkout is behind https://manju07.github.io/.
+        if path.name in {"index.html", "blogs.html"}:
+            continue
         files.append(path)
     for path in sorted(files):
         body = _file_text(path).strip()

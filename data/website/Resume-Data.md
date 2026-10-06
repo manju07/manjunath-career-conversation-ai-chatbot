@@ -125,13 +125,13 @@ To drive impactful business outcomes by architecting, building, and delivering i
 
 
 Job Profile:
-Experienced Full Stack Architect and AI/ML Innovator with 8.8+ years of hands-on expertise delivering enterprise-grade solutions across the financial, retail, and computer vision domains. Skilled at architecting, designing (HLD/LLD), and building large-scale, high-performance platforms using modern microservices, cloud-native, and event-driven systems. Deep experience in AI, machine learning, and generative AI, including real-time analytics, agentic multi-agent systems, and enterprise automation. Adept at end-to-end software delivery—from solution architecture and hands-on coding to troubleshooting complex challenges and optimizing for reliability, scalability, and seamless user experience. Passionate about leveraging emerging technologies to solve real-world problems and drive impactful business outcomes.
+Experienced Full Stack Architect and AI/ML Innovator with 9.6+ years of hands-on expertise delivering enterprise-grade solutions across the financial, retail, and computer vision domains. Skilled at architecting, designing (HLD/LLD), and building large-scale, high-performance platforms using modern microservices, cloud-native, and event-driven systems. Deep experience in AI, machine learning, and generative AI, including real-time analytics, agentic multi-agent systems, and enterprise automation. Adept at end-to-end software delivery—from solution architecture and hands-on coding to troubleshooting complex challenges and optimizing for reliability, scalability, and seamless user experience. Passionate about leveraging emerging technologies to solve real-world problems and drive impactful business outcomes.
 
 
-Full Stack Architect & AI/ML Innovator | Senior Software Engineer at Intuit | 8.8+ Years Experience | B.Tech CSE (MIT, Manipal) | Ex-Walmart Labs | Ex-Zeta Suite | Expert in Microservices, Cloud, Agentic-AI, Generative AI | Open to Full-Time Roles (No C2H)
+Full Stack Architect & AI/ML Innovator | Senior Software Engineer at Intuit | 9.6+ Years Experience | B.Tech CSE (MIT, Manipal) | Ex-Walmart Labs | Ex-Zeta Suite | Expert in Microservices, Cloud, Agentic-AI, Generative AI | Open to Full-Time Roles (No C2H)
 
 
-Full Stack Architect & AI/ML Innovator with 8.8+ years’ experience delivering impactful enterprise solutions across financial, retail, and computer vision domains. Skilled in modern microservices, event-driven platforms, and cloud-native systems using Java, Python, Node.js, Spring Boot, Angular, ReactJS, Kafka, MongoDB, Docker, Kubernetes, and AWS. Currently a Senior Software Engineer at Intuit (previously at Walmart Labs, Zeta Suite, Nouveau Labs, and AllGoVision) with a B.Tech in Computer Science & Engineering from Manipal Institute of Technology.
+Full Stack Architect & AI/ML Innovator with 9.6+ years’ experience delivering impactful enterprise solutions across financial, retail, and computer vision domains. Skilled in modern microservices, event-driven platforms, and cloud-native systems using Java, Python, Node.js, Spring Boot, Angular, ReactJS, Kafka, MongoDB, Docker, Kubernetes, and AWS. Currently a Senior Software Engineer at Intuit (previously at Walmart Labs, Zeta Suite, Nouveau Labs, and AllGoVision) with a B.Tech in Computer Science & Engineering from Manipal Institute of Technology.
 
 Hands-on with AI, machine learning, generative AI, and multi-agent systems leveraging frameworks like LangChain, CrewAI, Hugging Face, and OpenAI. Proven in architecture, technical leadership, and building scalable, resilient products.
 
@@ -141,7 +141,7 @@ Open to full-time roles (not C2H) in software architecture, AI/ML engineering, a
 
 Hello! 👋
 
-I’m a Full Stack Developer & AI/ML Innovator with 8.8+ years of hands-on experience designing and delivering impactful, enterprise-grade software across financial, retail, and computer vision sectors. My passion is building scalable, high-performance platforms by leveraging modern microservices, event-driven and cloud-native architectures — and empowering teams to drive innovation through cutting-edge AI and automation.
+I’m a Full Stack Developer & AI/ML Innovator with 9.6+ years of hands-on experience designing and delivering impactful, enterprise-grade software across financial, retail, and computer vision sectors. My passion is building scalable, high-performance platforms by leveraging modern microservices, event-driven and cloud-native architectures — and empowering teams to drive innovation through cutting-edge AI and automation.
 
 🔹 Currently a Senior Software Engineer at Intuit (ex-Walmart Labs, Zeta Suite, Nouveau Labs, AllGoVision).
 🔹 B.Tech in Computer Science & Engineering (MIT, Manipal).
