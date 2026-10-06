@@ -1,0 +1,62 @@
+Blogs | Manjunath Asundi
+Manjunath Asundi Home
+About
+Experience
+Projects
+Skills
+Blogs
+Technical Blogs
+Sharing insights on software engineering, AI/ML, cloud technologies, and emerging tech trends
+All Posts AI/ML Software Engineering Cloud & DevOps Microservices Tutorials
+Showing 6 articles
+August 2025 Agentic AI
+Building an Autonomous AI Trading System: A Multi-Agent Approach to Stock Market Analysis
+How I built a sophisticated AI trading platform using multiple specialized agents that work together to make intelligent investment decisions.
+Featuring technical analysis agents, sentiment analysis, risk management, and a breakthrough multi-LLM validation system that leverages the strengths of different AI models.
+Key Highlights
+Multi-agent architecture with specialized AI agents
+Real-time consensus mechanism for trading decisions
+Multi-LLM validation system with Gemini integration
+Complete ecosystem with Streamlit dashboard and FastAPI backend
+Asynchronous agent coordination and real-time data streaming
+Agentic AI Multi-Agent Systems Stock Trading Python LLM Integration FastAPI Streamlit Risk Management
+Read on Medium View Code
+October 2024 Microservices
+Building Scalable Microservices Architecture: Lessons from Production at Scale
+Deep dive into designing and implementing microservices architecture that can handle 25K+ transactions per minute.
+Learn about service discovery, API gateways, data consistency patterns, and monitoring strategies used at Walmart Labs.
+Microservices Spring Boot Kubernetes Docker Java Architecture Scalability
+Coming Soon
+September 2024 AI/ML
+Building Production-Ready RAG Systems: From Embeddings to Intelligent Answers
+Complete guide to building Retrieval-Augmented Generation systems using ChromaDB, advanced embedding techniques,
+and agentic answering patterns. Includes performance optimization and deployment strategies.
+RAG Embeddings ChromaDB LLM Python AI/ML
+Coming Soon
+August 2024 Cloud & DevOps
+Modern Cloud Architecture Patterns: AWS vs Azure for Enterprise Applications
+Comprehensive comparison of cloud architectures, covering serverless patterns, container orchestration,
+and infrastructure as code. Real-world examples from enterprise deployments handling millions of requests.
+AWS Azure Kubernetes Docker DevOps Terraform Jenkins
+Coming Soon
+July 2024 Software Engineering
+Achieving Sub-100ms Response Times: Java Performance Optimization Techniques
+Advanced techniques for optimizing Java applications to achieve ultra-low latency.
+Covers JVM tuning, garbage collection optimization, memory management, and real-time monitoring strategies.
+Performance Java Spring Boot JVM Tuning Monitoring Optimization
+Coming Soon
+June 2024 Tutorials
+GraphQL with Spring Boot: Complete Tutorial for Modern API Development
+Step-by-step guide to implementing GraphQL in Spring Boot applications. Covers schema design,
+resolver patterns, performance optimization, and integration with existing REST APIs.
+GraphQL Spring Boot API Design Java Tutorial Backend
+Coming Soon
+Stay Updated with Latest Tech Insights
+Subscribe to get notified when I publish new articles on AI/ML, software engineering,
+cloud architectures, and emerging technologies. No spam, just quality content.
+Subscribe
+More Content Coming Soon!
+I'm constantly working on new technical articles covering the latest trends in software engineering,
+AI/ML, cloud technologies, and enterprise architecture. Stay tuned for more insights!
+Get In Touch
+© 2024 Manjunath Asundi. All rights reserved. | Back to Portfolio

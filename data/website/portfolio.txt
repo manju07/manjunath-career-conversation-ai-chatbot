@@ -1,0 +1,442 @@
+Manjunath Asundi | Full Stack Architect & Tech Innovator
+About
+Experience
+Projects
+Skills
+Education
+Interests
+Certificates
+Blogs
+AI Career Assistant
+Manjunath Asundi
+Bangalore,
+Karnataka 560040 (+91) 988-698-8915 manjunathasundi07@gmail.com | manjunathasundi07@zohomail.in
+Senior Software Engineer at Intuit, with a distinguished career spanning 8+ years across leading
+organizations including Walmart Labs, Zeta Suite, and AllGoVision Technologies.
+Graduated with a B.Tech in Computer Science from Manipal Institute of Technology, Manipal.
+Proven track record in developing high-performance, scalable enterprise applications that handle
+mission-critical operations with low-latency requirements.
+Expert in full-stack development with deep expertise in Java, Spring Boot, Microservices, and Cloud
+Technologies.
+Demonstrated excellence in building reliable, scalable systems with expertise in cloud infrastructure,
+performance optimization, and implementing secure architectures.
+Proficient in modern tech stack including Spring Boot, ReactJS, GraphQL, Kafka, and various cloud
+platforms (AWS, Azure, GCP).
+Strong background in database technologies (PostgreSQL, MongoDB, CosmosDB) and DevOps tools (Docker,
+Kubernetes, Jenkins).
+Experienced in conducting architectural reviews and implementing security best practices in enterprise
+applications.
+Dedicated to continuous learning, actively pursuing knowledge in AI/ML through platforms like LinkedIn
+Learning, Coursera, and Udemy, with recent certifications in AI and Machine Learning.
+Exploring the frontiers of AI technology, including Hugging Face for transformer models, ChatGPT for
+intelligent automation, and Google Gemini for advanced AI applications.
+Maintaining a strong presence on HackerRank, consistently improving problem-solving skills and staying
+current with emerging technologies.
+Passionate about learning new programming paradigms, exploring deep learning concepts, and applying
+AI/ML innovations to solve complex technical challenges.
+Experience
+Senior Software Engineer
+Intuit
+September 2024 - Present
+Developed Quote-Async and Quote-Service applications to enhance
+customer buying experiences by analyzing data and suggesting suitable products
+Built asynchronous quote processing platform with real-time pricing
+calculations and multi-service integration architecture
+Implemented intelligent product recommendation system using data
+analysis to optimize customer buying journey
+Technologies: Java, Spring Boot, GraphQL, Microservices, Kafka,
+PostgresDB, Redis Cache, HiveDB, ReactJS, Kubernetes, AWS
+Senior Software Engineer
+Walmart Labs
+July 2022 - September 2024
+Created Columbus-Foundation-App for seller management across Walmart
+marketplaces, achieving 100ms latency for 25K+ TPM using Spring Boot, Microservices, JUnit5 with Mockito,
+Apache Kafka, GraphQL and CosmosDB
+Developed Columbus-Read-App to serve seller data to over 100 consumer
+teams, handling 50K+ TPM with 100ms latency using Java, Spring Boot, Microservices, JUnit, Mockito, Kafka,
+Cosmos, GraphQL, Kubernetes, Spring-Security, OAuth2, JMeter, K8 and Docker
+Worked on MFA Omission downgrading from 2FA to 1FA based on tracking
+customer interactions to improve customer login experience using Spring-Boot, MySQL, OAuth2 and
+Spring-Security
+Technologies: Java, Spring Boot, Microservices, JUnit5, Mockito, Kafka,
+CosmosDB, GraphQL, MySQL, OAuth2, Spring-Security, JMeter, Kubernetes, Docker
+Software Development Engineer - II
+Zeta Suite
+May 2021 - June 2022
+Implemented Recharge Service for mobile and DTH plans, processing over
+2M transactions daily with high reliability and performance
+Built full-stack financial service solution with real-time transaction
+processing and comprehensive payment management
+Developed transaction monitoring and reconciliation systems ensuring
+99.9% transaction success rate
+Technologies: AngularJS, NodeJS, ExpressJS, Java, Spring Boot, Kafka,
+MySQL
+Software Engineer - III
+Walmart Labs
+November 2020 - May 2021
+Developed Alerting-Application for internal system alerts and customer
+issue notifications providing real-time monitoring capabilities
+Built comprehensive notification system with multi-channel delivery and
+intelligent alert routing for enterprise operations
+Implemented ReactJS frontend with intuitive dashboards and Java Spring
+Boot backend for robust system monitoring
+Technologies: ReactJS, Java, Spring Boot, OracleDB, Azure
+Senior Software Engineer
+Nouveau Labs
+February 2020 - November 2020
+Worked on DolphinVC product, a multi-platform video conferencing app
+with features like scheduling and instant meetings
+Developed secure authentication system with OAuth2 integration and
+session management for enterprise video collaboration
+Implemented cloud-native architecture using Docker containerization and
+Kubernetes orchestration on AWS infrastructure
+Technologies: Java, Spring Boot, OAuth2, Kafka, OracleDB, Docker,
+Kubernetes, AWS
+Software Engineer
+AllGoVision Technologies
+March 2018 - December 2019
+Built AllGoVision Analytics product with 50+ ML/DL/AI features, serving
+over 2K companies worldwide
+Developed AllGoVision Alarm Center for alarm representation and
+management generated by the analytics tool
+Implemented advanced computer vision algorithms for real-time video
+analytics and intelligent surveillance systems
+Created full-stack AI solution with Angular frontend, NodeJS backend,
+and MongoDB for scalable enterprise analytics
+Technologies: Java, NodeJS, Angular, MongoDB, Machine Learning, Deep
+Learning, Computer Vision
+Featured Projects
+Professional Projects
+Enterprise-scale applications built for leading tech companies, handling millions of transactions and
+serving thousands of users worldwide.
+Quote-Async & Quote-Service Platform
+Intuit 2024-Present
+Advanced asynchronous quote processing platform designed to enhance customer buying experiences across
+Intuit's product ecosystem. Features high-throughput quote generation, real-time pricing calculations,
+and seamless integration with multiple business units.
+Technologies
+Java Spring Boot Microservices Kafka PostgreSQL HiveDB ReactJS Kubernetes AWS
+Key Achievements
+Asynchronous quote processing for improved UX
+Real-time pricing and quote calculations
+Multi-service integration architecture
+Enhanced customer buying journey optimization
+Columbus Foundation App
+Walmart Labs 2022-2024
+A high-performance seller management system for Walmart marketplaces, handling 25K+ transactions per
+minute with 100ms latency. The system provides real-time seller data management and analytics.
+Technologies
+Spring Boot Microservices JUnit5 Kafka GraphQL CosmosDB Kubernetes
+Key Achievements
+100ms latency for 25K+ TPM
+Robust error handling system
+Scalable microservices architecture
+Multi-marketplace integration
+Columbus-Read-App
+Walmart Labs 2022-2024
+High-performance data serving application providing seller data to 100+ consumer teams across
+Walmart's marketplace ecosystem. Designed for scalability and reliability with comprehensive data
+access patterns.
+Technologies
+Spring Boot Microservices GraphQL CosmosDB Kafka JUnit5 Mockito
+Key Achievements
+Serving data to 100+ consumer teams
+High-availability data access layer
+GraphQL-based flexible data querying
+Comprehensive API documentation
+Recharge Service Platform
+Zeta Suite 2021-2022
+Mission-critical recharge service processing 2M+ transactions daily for Zeta's financial platform.
+Built with high reliability, real-time processing capabilities, and comprehensive transaction
+management.
+Technologies
+Java Spring Boot NodeJS AngularJS ExpressJS Kafka MySQL
+Key Achievements
+Processing 2M+ daily transactions
+Real-time transaction processing
+High-reliability financial operations
+Full-stack implementation
+Alerting-Application
+Walmart Labs 2020-2021
+Comprehensive alerting and notification system for internal system monitoring and customer
+communications. Features real-time alert processing, multi-channel notifications, and intelligent
+alert routing.
+Technologies
+Java Spring Boot ReactJS OracleDB Azure Microservices
+Key Achievements
+Real-time system monitoring
+Multi-channel notification delivery
+Intelligent alert routing system
+Customer communication automation
+DolphinVC Video Conferencing Platform
+Nouveau Labs 2020
+Multi-platform video conferencing application with enterprise-grade features including secure
+authentication, real-time communication, and scalable infrastructure designed for high-quality video
+experiences.
+Technologies
+Java Spring Boot OAuth2 Kafka OracleDB Docker Kubernetes AWS
+Key Achievements
+Multi-platform video conferencing
+OAuth2 secure authentication
+Cloud-native architecture
+Container-based deployment
+AllGoVision Analytics Platform
+AllGoVision Technologies 2018-2019
+Advanced analytics platform with 50+ ML/DL/AI features serving 2K+ companies worldwide. Comprehensive
+computer vision and AI-powered analytics solution for enterprise clients with real-time processing
+capabilities.
+Technologies
+Java NodeJS Angular MongoDB Machine Learning Deep Learning Computer Vision
+Key Achievements
+50+ ML/DL/AI features implemented
+Serving 2K+ companies globally
+Computer vision analytics platform
+Full-stack AI solution development
+Personal Projects
+Innovative AI/ML applications and microservice architectures showcasing cutting-edge technologies and
+experimental implementations.
+Autonomous Traders
+Personal Project 2025
+Sophisticated trading simulation system featuring multiple autonomous AI traders that independently
+manage portfolios using different investment strategies. Four traders (Warren, George, Ray, Cathie)
+operate as intelligent agents with unique investment philosophies, real-time market data
+integration, and complete portfolio management.
+Technologies
+Python AI Trading Multi-Agent Systems Gradio MCP Architecture Polygon.io API SQLite
+Key Achievements
+Four distinct AI trading strategies
+Real-time market data integration
+Complete portfolio management system
+Web-based monitoring dashboard
+View Code Live Demo
+Financial Researcher with CrewAI
+Personal Project 2025
+Advanced financial research automation platform using CrewAI framework. Features coordinated AI
+agents that conduct comprehensive financial analysis, market research, and investment insights with
+collaborative multi-agent workflows and detailed logging system.
+Technologies
+Python CrewAI Financial Analysis Multi-Agent Collaboration Market Research
+Key Achievements
+Automated financial research workflows
+Multi-agent collaboration system
+Comprehensive market analysis
+Investment insights generation
+Advanced logging and tracing system
+View Code Try Demo
+Deep Research Assistant
+Personal Project 2025
+AI-powered research assistant that automatically generates comprehensive research reports. Uses OpenAI
+Agent SDK for autonomous task planning and execution with web search capabilities and email delivery.
+Technologies
+Python OpenAI GPT-4 Agent SDK Gradio Asyncio Pydantic
+Key Achievements
+Automated research planning
+5-10 page comprehensive reports
+Email delivery system
+Unique trace ID for reproducibility
+View Code Try Demo
+Multimodal RAG System
+Personal Project 2025
+Advanced Retrieval-Augmented Generation system for PDF documents with ChromaDB vector store. Features
+agentic answering, semantic search, and interactive Gradio interface with live demo on Hugging Face
+Spaces.
+Technologies
+Python RAG ChromaDB Embeddings Gradio Hugging Face
+Key Achievements
+PDF document processing
+Vector embeddings & semantic search
+Live demo on Hugging Face
+Agentic answer synthesis
+View Code Live Demo
+Debater with CrewAI
+Personal Project 2025
+Intelligent debate simulation system powered by CrewAI. Creates structured debates with multiple AI
+agents representing different perspectives, conducting research, formulating arguments, and engaging
+in dynamic discussions on complex topics.
+Technologies
+Python CrewAI Debate Systems Argument Mining Multi-Agent Dialogue
+Key Achievements
+Structured debate automation
+Multi-perspective argument generation
+Research-backed position taking
+Dynamic discussion management
+View Code
+Career Conversation AI Chatbot
+Personal Project 2024
+Conversational AI agent representing my professional profile, built with multi-model support (OpenAI
+& Gemini). Features contextual knowledge from resume and LinkedIn, with lead capture and
+notification system.
+Technologies
+Python OpenAI Google Gemini Gradio RAG Pushover API
+Key Achievements
+Multi-model AI integration
+Contextual professional knowledge
+Lead capture and logging
+Real-time notifications
+View Code Chat Now
+AI Stock Trading Platform
+Personal Project 2024
+Sophisticated AI trading platform using multi-agent approach with specialized agents for technical
+analysis, sentiment analysis, and risk management. Features real-time consensus decision-making and
+multi-LLM validation system.
+Technologies
+Python Agentic AI Multi-Agent Systems Streamlit FastAPI LLM Integration SQLite
+Key Achievements
+Multi-agent consensus mechanism
+Real-time market analysis
+Interactive dashboard with portfolio monitoring
+Automated risk management
+View Code
+Technical Skills
+A comprehensive technical toolkit, combining deep-rooted expertise in enterprise platforms, programming, distributed systems, cloud, DevOps, data, and modern AI/ML tooling.
+Programming Languages
+Java
+Python
+Node.js
+JavaScript
+Platforms & OS
+Windows
+macOS
+Linux
+UNIX variants
+Frameworks & Libraries
+Spring (Boot, Cloud, MVC, Security, OAuth)
+JPA (Hibernate)
+JUnit (Mockito)
+NumPy
+Pandas
+Seaborn
+FastAPI
+Express.js
+AngularJS
+React.js
+Next.js
+Jest
+Bootstrap 4
+jQuery
+GraphQL
+HTML5
+CSS3
+Databases
+Relational Databases: MySQL, PostgreSQL, OracleDB, SQLite
+NoSQL Databases: MongoDB, Cassandra, DynamoDB, Cosmos DB
+Analytical/Big Data: HiveDB
+Cloud & DevOps
+AWS
+Azure
+Google Cloud Platform
+Heroku
+Docker
+Kubernetes
+Jenkins
+GitHub Actions
+CI/CD
+Terraform
+Search, Messaging & Caching
+Elasticsearch
+Apache Solr
+Redis
+Memcached
+Apache Kafka
+RabbitMQ
+SQS
+SNS
+WebSocket
+AI, ML & GenAI Tooling
+LangChain
+LangGraph
+AgenticAI
+CrewAI
+MCP
+Hugging Face
+OpenAI Agents SDK
+Qodo
+ChatGPT
+Google Gemini
+Claude
+OpenLlama
+RAG
+scikit-learn
+TensorFlow
+PyTorch
+Observability & Monitoring
+Grafana
+Prometheus
+SonarQube
+Splunk
+DynaTrace
+Lenses
+APIs & Integrations
+RESTful APIs
+GraphQL APIs
+WebSocket APIs
+gRPC
+OAuth2
+SAML
+SSO
+Developer Tools
+Cursor
+WindSurf
+VS Code
+PyCharm
+IntelliJ IDEA
+Postman
+JMeter
+JIRA
+GitHub
+Concord
+BPMN Camunda
+Education
+Manipal Institute of Technology, Manipal
+2014 - 2017
+Bachelor of Technology
+Computer Science and Engineering
+CGPA 6.64/10
+NTTF Dharwad
+2011 - 2014
+Diploma in Computer Science
+Percentage 80.54%
+R.L.S High School, Dharwad
+2010 - 2011
+Secondary School Certificate (10th)
+Percentage 81.12%
+Areas of Interest
+Artificial Intelligence, Machine Learning, and Deep Learning
+Implementation of time-efficient data structures
+Implementation of new algorithms and their time/space complexities
+Desktop, web, and mobile application development
+Game development and programming
+Certificates
+All Professional HackerRank LinkedIn Coursera
+AI Engineer Agentic Track: The Complete Agent & MCP Course Udemy Nov 2025
+Generative AI Udemy 2025
+Exam Prep CKA: Certified Kubernetes Administrator Coursera 2024
+Advanced React Coursera 2023
+BPMN Overview Skilljar 2023
+Learning GraphQL LinkedIn Learning 2022
+Learning Kubernetes LinkedIn Learning 2022
+Learn Java Unit Testing with Junit & Mockito in 30 Steps Udemy 2021
+JavaScript
+(Intermediate) HackerRank 2021
+JavaScript (Basic) HackerRank 2021
+Master Microservices with Spring Boot and Spring Cloud Udemy 2020
+Jenkins, From Zero To Hero: Become a DevOps Jenkins Master Udemy 2020
+Master Docker with Java - DevOps for Spring Microservices Udemy 2020
+Problem Solving
+(Advanced) HackerRank 2020
+Java (Intermediate) HackerRank 2020
+SQL (Intermediate) HackerRank 2020
+Java (Basic) HackerRank 2020
+Problem Solving
+(Basic) HackerRank 2020
+React (Basic) HackerRank 2020
+SQL (Basic) HackerRank 2020
+AI Career Assistant
+Chat with AI Assistant
+Experience an interactive conversation with an AI assistant trained on my professional background.
+Ask questions about my experience, skills, projects, or career journey, and get instant, accurate
+responses.
+Real-time responses
+Comprehensive knowledge
+24/7 availability
+Start Chat Now
